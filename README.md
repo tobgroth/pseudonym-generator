@@ -176,15 +176,10 @@ Or in BibTeX:
 ```bibtex
 
 @misc{grothe2025pseudonymgenerator,
-
-&#x20; author = {Grothe, Tobias},
-
-&#x20; title = {PseudonymGenerator: A Secure Tool for Generating Reproducible Pseudonyms in Research},
-
-&#x20; year = {2026},
-
-&#x20; howpublished = {url{https://github.com/tobgroth/pseudonym-generator}}
-
+author = {Grothe, Tobias},
+title = {PseudonymGenerator: A Secure Tool for Generating Reproducible Pseudonyms in Research},
+year = {2026},
+howpublished = {url{https://github.com/tobgroth/pseudonym-generator}}
 }
 ```
 
