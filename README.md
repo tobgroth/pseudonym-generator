@@ -186,7 +186,7 @@ Or in BibTeX:
 &#x20; howpublished = {url{https://github.com/tobgroth/pseudonym-generator}}
 
 }
-
+```
 
 
 ## 📬 Support
